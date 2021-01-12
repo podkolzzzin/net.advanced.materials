@@ -15,10 +15,10 @@
     * [.NET Inside Out Part 3 — How to override sealed function in C#](https://blog.adamfurmanek.pl/2017/02/11/how-to-override-sealed-function-in-c/)
     * [Harmony.Lib official repository](https://github.com/pardeike/Harmony)
 1. Generics
+    * [WinDbg Superpowers for .NET Developers — Sasha Goldshtein](https://www.youtube.com/watch?v=8t1aTbnZ2CE)
     * [Age of JIT compiling. Part I. Genesis](https://habr.com/ru/post/248775/)
     * [Age of JIT compiling. Part II. CLR is watching you](https://habr.com/ru/post/253105/)
     * [.NET Generics under the hood](https://alexandrnikitin.github.io/blog/dotnet-generics-under-the-hood/)
     * [SOS.dll (SOS debugging extension)](https://docs.microsoft.com/en-us/dotnet/framework/tools/sos-dll-sos-debugging-extension)
-    * [WinDbg Superpowers for .NET Developers — Sasha Goldshtein](https://www.youtube.com/watch?v=8t1aTbnZ2CE)
     * [The theory behind covariance and contravariance in C# 4](http://tomasp.net/blog/variance-explained.aspx/)
 1. Yield
