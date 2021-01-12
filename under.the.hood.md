@@ -1,5 +1,5 @@
 # .NET Advanced Under the hood
-## Topics
+## Materials for topics
 1. Object
     * [Недокументированные ключевые слова C# или превращаем объект в тыкву](https://aakinshin.net/ru/posts/undocumented-keywords-in-cs/)
     * [Ломаем фундаментальные основы C#: выделение памяти под ссылочный тип на стеке](https://habr.com/ru/post/428676/)
