@@ -22,3 +22,8 @@
     * [SOS.dll (SOS debugging extension)](https://docs.microsoft.com/en-us/dotnet/framework/tools/sos-dll-sos-debugging-extension)
     * [The theory behind covariance and contravariance in C# 4](http://tomasp.net/blog/variance-explained.aspx/)
 1. Yield
+1. String
+    * [Jon Skeet: Строки в C# и .NET](https://habr.com/ru/post/165597/)
+    * [StringBuilder прошлое и настоящее](https://habr.com/ru/post/172689/)
+    * [Ropes — быстрые строки](https://habr.com/ru/post/144736/)
+    
