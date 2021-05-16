@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetAdvcancedLiveCoding.2021.09", "NetAdvcancedLiveCoding.2021.09\NetAdvcancedLiveCoding.2021.09.csproj", "{683E14A1-36EC-4164-B96E-24A606D64A8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{683E14A1-36EC-4164-B96E-24A606D64A8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{683E14A1-36EC-4164-B96E-24A606D64A8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{683E14A1-36EC-4164-B96E-24A606D64A8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{683E14A1-36EC-4164-B96E-24A606D64A8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {900B736F-B968-4ECD-B0C6-8431FF6A00BD}
+	EndGlobalSection
+EndGlobal

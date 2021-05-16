@@ -1,0 +1,14 @@
+{
+  "Entity": "Customer",
+  "Key": "LastName",
+  "Value": "Frazer",
+  "And": {
+    "Entity": "Customer",
+    "Key": "FirstName",
+    "Value": "Nathaniel",
+    "Or": {
+      "Key": "CustomerPhone",
+      "Value": "(195) 947-5497"
+    }
+  }
+}
