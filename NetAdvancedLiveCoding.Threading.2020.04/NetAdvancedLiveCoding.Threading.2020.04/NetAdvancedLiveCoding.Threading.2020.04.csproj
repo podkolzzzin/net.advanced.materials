@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>NetAdvancedLiveCoding.Threading._2020._04</RootNamespace>
+    <AssemblyName>NetAdvancedLiveCoding.Threading.2020.0412</AssemblyName>
+  </PropertyGroup>
+
+</Project>
